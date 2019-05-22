@@ -1,7 +1,6 @@
 $(function() {
     init();
-    console.log("Main Init Called");
-
+    console.log("New information for git test");
 });
 
 function init() {
